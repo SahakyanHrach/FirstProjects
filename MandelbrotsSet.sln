@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MandelbrotSetGrapher", "WindowsFormsApp3\MandelbrotSetGrapher.csproj", "{C2C94E37-8709-4E77-BFE1-6B2C56154B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2C94E37-8709-4E77-BFE1-6B2C56154B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C94E37-8709-4E77-BFE1-6B2C56154B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C94E37-8709-4E77-BFE1-6B2C56154B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C94E37-8709-4E77-BFE1-6B2C56154B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F156E59-77CB-477A-AC59-4717501CD82C}
+	EndGlobalSection
+EndGlobal
